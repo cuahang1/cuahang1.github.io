@@ -1,0 +1,1 @@
+{"mapItemId":30,"PDmysqlId":1,"mapItemIdMin":1,"mapItemIdMax":50000}
